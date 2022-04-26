@@ -1,0 +1,3 @@
+C:/Users/Drontek/CLionProjects/Jucarii/cmake-build-debug/CMakeFiles/Jucarii.dir
+C:/Users/Drontek/CLionProjects/Jucarii/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Drontek/CLionProjects/Jucarii/cmake-build-debug/CMakeFiles/rebuild_cache.dir
